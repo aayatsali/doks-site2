@@ -1,6 +1,6 @@
 # Theme settings
 doks:
-    baseurl: https://aayatsali.github.io/doks-site2/
+    baseurl: https://aayatsali.github.io/doks-site2
     color_theme: # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
